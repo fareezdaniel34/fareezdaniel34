@@ -25,4 +25,4 @@ Computer Science student at **Universiti Teknologi MARA (UiTM)**, interested in 
 
 ## Connect
 
-[![LinkedIn](https://www.linkedin.com/in/fareezdaniel34/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Fareez%20Daniel-0A66C2?logo=linkedin)](https://www.linkedin.com/in/fareezdaniel34/)
